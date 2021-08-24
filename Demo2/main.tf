@@ -1,4 +1,4 @@
-resource "aws_s3_bucket" "sh" {
+resource "aws_s3_bucket" "shaktidutta" {
   bucket = "test-bucket"
   acl    = "private"
 
